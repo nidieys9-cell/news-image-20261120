@@ -1,7 +1,12 @@
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/nidieys9-cell/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/nidieys9-cell/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 # The World Today — Friday 20 November 2026
 
 Entry for make.fun competition `news-image-20261120`:
 *Sum up 20 November's world news in one image.*
+Competition: https://make.fun/bounty/news-image-20261120
 
 `main.ts` (Node) copies the pre-rendered `entry.png` (1024×1024 PNG,
 under 1 MiB) into `MAKEFUN_OUTPUT_DIR` (default `/output`). The picture
